@@ -1,0 +1,27 @@
+html, body {
+	height: 100%;
+}
+
+#wrap {
+    min-height: 100%; 
+	position:relative;
+	padding-bottom: 100px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #343A40;
+    color: white;
+}
+
+u {
+    text-decoration: none;
+    border-bottom: 5px solid #a70532;
+}
+
+h3 {
+    margin-bottom: 3rem !important;
+}
